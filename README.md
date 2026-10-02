@@ -132,9 +132,9 @@ Results from running the notebook on the real data. Training data: 2,077 days (2
 
 After running the notebook, upload the PNG files to `figures/`. Suggested ones:
 
-![Model grid](figures/16_model_grid.png)
-![Top models](figures/17_top_models.png)
-![Future forecast](figures/19_future_forecast.png)
+![Model grid](16_model_grid.png)  
+![Top models](17_top_models.png)
+![Future forecast](19_future_forecast.png)
 
 ## Limitations
 
